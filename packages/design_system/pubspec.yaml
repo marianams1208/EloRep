@@ -1,0 +1,16 @@
+name: elorep_design_system
+version: 1.0.0
+publish_to: none
+environment:
+  sdk: ^3.13.0
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.2.1
+flutter:
+  assets:
+    - assets/icons/
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto.ttf
